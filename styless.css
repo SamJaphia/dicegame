@@ -1,0 +1,22 @@
+.dice {
+  display: inline-block;
+  text-align: center;
+  padding: 5%;
+}
+
+body {
+  background-color: #ca5116;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: 'Patrick Hand', cursive;
+  font-size: 2rem;
+}
+
+h1 {
+font-family: 'Caveat', cursive;
+font-size: 2rem;
+}
+
